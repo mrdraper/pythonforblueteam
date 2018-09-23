@@ -14,7 +14,7 @@ Will be expanded in the near future.
 ## Linked scripts
 
 - [freq.py](https://github.com/MarkBaggett/freq)
-- [domain_stats.py]https://github.com/MarkBaggett/domain_stats
+- [domain_stats.py](https://github.com/MarkBaggett/domain_stats)
 - [freq_server.py](https://github.com/MarkBaggett/freq)
 
 ## Books
